@@ -1,18 +1,6 @@
-<<<<<<< HEAD
-tensorflow
-pandas
-numpy
-matplotlib
-scikit-learn
-tensorboard
 streamlit
-=======
-tensorflow
 pandas
-numpy
-matplotlib
+tensorflow-cpu
 scikit-learn
-tensorboard
-streamlit
->>>>>>> 7110cc0658bb85180299b766c677e6bee6e4b751
 joblib
+numpy
